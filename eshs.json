@@ -2,6 +2,6 @@
     {"version":"1.0.0", "environment": "prod"},
     {"version":"1.0.1", "environment": "prod"},
     {"version":"1.0.2", "environment": "prod"},
-    {"version":"1.0.3", "environment": "stage"}
+    {"version":"1.0.3", "environment": "prod"}
 
 ]}

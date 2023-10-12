@@ -6,7 +6,7 @@
     {"version":"1.0.4", "environment": "prod"},
     {"version":"1.0.5", "environment": "prod"},
     {"version":"1.0.6", "environment": "prod"},
-    {"version":"1.0.7", "environment": "test"},
+    {"version":"1.0.7", "environment": "stage"},
 
 
 
